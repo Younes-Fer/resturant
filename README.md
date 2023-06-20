@@ -11,5 +11,5 @@ landing page
 
 
 <H1>Dashoard admin</H1>
-<img src="/dashord_admin.png" alt="homepage">
+<img src="/dashoard_admin.png" alt="homepage">
 
